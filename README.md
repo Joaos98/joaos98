@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi! I'm João Vitor</h1>  
-<h3 align="center">I'm a 22yo passionate web developer from (and currently living in) Rio de Janeiro, Brazil</h3>  
+<h3 align="center">I'm a 23yo passionate web developer from (and currently living in) Rio de Janeiro, Brazil</h3>  
   
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=joaos98&label=Profile%20views&color=0e75b6&style=flat" alt="joaos98" /> </p> 
 <p align="center">
