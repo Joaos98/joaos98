@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi! I'm João Vitor</h1>  
-<h3 align="center">I'm a 23yo passionate web developer from (and currently living in) Rio de Janeiro, Brazil</h3>  
+<h1 align="center">Hi! I'm João Vitor Sousa</h1>  
+<h3 align="center">I'm a passionate Software Engineer from (and currently living in) Rio de Janeiro, Brazil</h3>  
   
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=joaos98&label=Profile%20views&color=0e75b6&style=flat" alt="joaos98" /> </p> 
 <p align="center">
@@ -24,8 +24,7 @@
     
 <ul>
   <li>♂ My pronouns are <strong>(he/him)</strong></li>
-  <li>🔭 I’m currently working on <a href="https://github.com/Joaos98/minha-universidade" target="_blank">Minha Universidade</a></li>
-  <li>🌱 I’m currently learning <strong>Python, Typescript</strong></li>
+  <li>🔭 I’m currently working as FIC Engineer at <a href="https://br.trustly.com" target="_blank">Trustly</a></li>
   <li>📧 You can reach me at Joao.sousa@edu.unirio.br</li>
 </ul>
   
